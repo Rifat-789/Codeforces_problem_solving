@@ -4,6 +4,8 @@ using namespace std;
 
 int main() {
 
+    // Problem Link: https://codeforces.com/contest/2234/problem/B
+
     int t = 0;
     cin >> t;
 
